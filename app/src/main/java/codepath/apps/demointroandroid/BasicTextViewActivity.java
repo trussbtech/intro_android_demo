@@ -1,5 +1,8 @@
 package codepath.apps.demointroandroid;
 
+/**
+  Rachael Added comments to he this file
+*/
 import android.os.Bundle;
 import android.app.Activity;
 import android.util.Log;
