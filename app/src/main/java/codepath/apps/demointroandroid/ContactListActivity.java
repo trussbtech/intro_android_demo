@@ -1,5 +1,9 @@
 package codepath.apps.demointroandroid;
 
+
+/**
+  Dan added commetness on rlease 
+*/
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.CursorLoader;
